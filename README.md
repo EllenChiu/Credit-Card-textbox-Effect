@@ -7,4 +7,4 @@ When the user fill in the card number, every four digits will automatically fill
 
 
 
-Author from Tsung-Shuan Liu(Tsung-Shuan Liu)
+Author from Tsung-Shuan Liu(https://github.com/FireQQTW)
